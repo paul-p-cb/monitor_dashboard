@@ -571,15 +571,7 @@
               "displayCache": {
                 "name": "UTC Time",
                 "value": "Past 24 hours"
-              },
-              "filteredPartIds": [
-                "StartboardPart-MonitorChartPart-906a1e5e-3938-4ef3-af81-fbe7213a5311",
-                "StartboardPart-LogsDashboardPart-906a1e5e-3938-4ef3-af81-fbe7213a5313",
-                "StartboardPart-AppMapGalPt-906a1e5e-3938-4ef3-af81-fbe7213a5315",
-                "StartboardPart-LogsDashboardPart-906a1e5e-3938-4ef3-af81-fbe7213a5317",
-                "StartboardPart-LogsDashboardPart-906a1e5e-3938-4ef3-af81-fbe7213a5319",
-                "StartboardPart-LogsDashboardPart-906a1e5e-3938-4ef3-af81-fbe7213a531b"
-              ]
+              }
             }
           }
         }
