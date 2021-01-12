@@ -65,7 +65,7 @@
                 },
                 {
                   "name": "PartId",
-                  "value": "95e31a0d-4796-4e86-bb67-3b80dd9d7cc5",
+                  "value": "[concat(uniquestring(resourceGroup().id), 'FailedReq1'))]",
                   "isOptional": true
                 },
                 {
@@ -288,7 +288,7 @@
                 },
                 {
                   "name": "PartId",
-                  "value": "80708187-97e1-438d-932b-2fb13361e228",
+                  "value": "[concat(uniquestring(resourceGroup().id), 'Last100Except1'))]",
                   "isOptional": true
                 },
                 {
@@ -386,7 +386,7 @@
                 },
                 {
                   "name": "PartId",
-                  "value": "057040d0-b40a-4cee-9374-817ad7ee1b77",
+                  "value": "[concat(uniquestring(resourceGroup().id), 'TotalAPI1'))]",
                   "isOptional": true
                 },
                 {
@@ -482,7 +482,7 @@
                 },
                 {
                   "name": "PartId",
-                  "value": "14934d5c-10e6-4897-ab89-070183623374",
+                  "value": "[concat(uniquestring(resourceGroup().id), 'ThrownExcept1'))]",
                   "isOptional": true
                 },
                 {
