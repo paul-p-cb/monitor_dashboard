@@ -27,3 +27,8 @@ variable sql_db_name {
   type        = string
   description = "The name of the Azure SQL DB"
 }
+
+variable subscription_id {
+  type        = string
+  description = "The ID of the Azure Subscription"
+}
